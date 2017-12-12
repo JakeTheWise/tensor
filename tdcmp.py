@@ -1,4 +1,3 @@
-%%cython
 import numpy as np
 cimport numpy as np
 from cython cimport boundscheck, wraparound, nonecheck
